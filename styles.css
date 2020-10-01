@@ -4,10 +4,31 @@ body
   text-align: center;
 }
 
-h1, h2,h3,h4,h5,h6
+h1
 {
   font-family: "Montserrat-Bold";
 }
+h2
+{
+  font-family: "Montserrat-Bold";
+}
+h3
+{
+  font-family: "Montserrat-Bold";
+}
+h4
+{
+  font-family: "Montserrat-Bold";
+}
+h5
+{
+  font-family: "Montserrat-Bold";
+}
+h6
+{
+  font-family: "Montserrat-Bold";
+}
+
 
 p
 {
